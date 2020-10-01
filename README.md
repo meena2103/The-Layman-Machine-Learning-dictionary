@@ -55,6 +55,7 @@ SOURCE: https://blog.bismart.com/en/classification-vs.-clustering-a-practical-ex
 
 
 ## 7. Support Vector Machine
+In machine learning, support-vector machines are supervised learning models with associated learning algorithms that analyze data used for classification and regression analysis
 
 
 ## 8. Baysian Network
